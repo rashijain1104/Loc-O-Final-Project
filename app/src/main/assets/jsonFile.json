@@ -1,0 +1,117 @@
+{
+  "storedata": [
+    {
+      "storename": "kebabs and Curry",
+      "category": "food",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "Falafel",
+      "category": "food",
+      "address" :"640 Epic Way, San Jose, CA, 95134"
+    },
+    {
+      "storename": "Jasmine Thai",
+      "category": "food",
+      "address" :"1050 Benton Street, Santa Clara, CA, 95050"
+    },
+    {
+      "storename": "Ike's sandwich",
+      "category": "food",
+      "address" :"1050 Benton Street, Santa Clara, CA, 95050"
+
+    },
+    {
+      "storename": "Chat Bhavan",
+      "category": "food",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "costco ",
+      "category": "food",
+      "address" :"2636 Newhall Street, Santa Clara, CA, 95050"
+    },
+    {
+      "storename": "luckys ",
+      "category": "grocery",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "Radhe Chaat ",
+      "category": "grocery",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": " safeway ",
+      "category": "grocery",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": " walmart ",
+      "category": "grocery",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": " sprouts ",
+      "category": "grocery",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "trader joe's ",
+      "category": "grocery",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "forever21 ",
+      "category": "apparel",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "macys ",
+      "category": "apparel",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "khols ",
+      "category": "apparel",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "express ",
+      "category": "apparel",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "j crew",
+      "category": "apparel",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+
+    {
+      "storename": "umbrella",
+      "category": "saloon",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "beauty spot",
+      "category": "saloon",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "ulta",
+      "category": "saloon",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "matrix",
+      "category": "saloon",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    },
+    {
+      "storename": "luxys",
+      "category": "saloon",
+      "address" :"976 El Camino Real, Sunnyvale, CA, 94087"
+    }
+
+  ]
+}

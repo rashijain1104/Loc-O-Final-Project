@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.computer1.locofferproject.StoreInfoActivity"
+    tools:showIn="@layout/activity_store_info"
+    android:background="@drawable/bg2">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="New Text"
+        android:id="@+id/nameTextView"
+        android:capitalize="words"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:background="#CDDC39"
+        android:gravity="center"
+        android:layout_below="@+id/storeImageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/addressTextView"
+        android:layout_below="@+id/nameTextView"
+        android:textSize="15dp"
+        android:gravity="center"
+        android:background="#CDDC39"
+        android:paddingBottom="5dp"
+        android:paddingTop="5dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="New Text"
+        android:id="@+id/offerTextView"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentStart="false"
+        android:layout_below="@+id/addressTextView"
+        android:textSize="23dp"
+        android:gravity="center"
+        android:textStyle="bold|italic"
+        android:background="#FFEB3B" />
+
+    <ImageView
+        android:layout_marginBottom="10dp"
+        android:layout_width="fill_parent"
+        android:layout_height="170dp"
+        android:id="@+id/storeImageView"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:layout_marginRight="78dp"
+        android:layout_marginEnd="78dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
